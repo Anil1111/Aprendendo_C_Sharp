@@ -1,0 +1,11 @@
+C:\Users\sousa\source\repos\Aula25_Operadores_Comparativos\Aula25_Operadores_Comparativos\bin\Debug\netcoreapp2.1\Aula25_Operadores_Comparativos.deps.json
+C:\Users\sousa\source\repos\Aula25_Operadores_Comparativos\Aula25_Operadores_Comparativos\bin\Debug\netcoreapp2.1\Aula25_Operadores_Comparativos.runtimeconfig.json
+C:\Users\sousa\source\repos\Aula25_Operadores_Comparativos\Aula25_Operadores_Comparativos\bin\Debug\netcoreapp2.1\Aula25_Operadores_Comparativos.runtimeconfig.dev.json
+C:\Users\sousa\source\repos\Aula25_Operadores_Comparativos\Aula25_Operadores_Comparativos\bin\Debug\netcoreapp2.1\Aula25_Operadores_Comparativos.dll
+C:\Users\sousa\source\repos\Aula25_Operadores_Comparativos\Aula25_Operadores_Comparativos\bin\Debug\netcoreapp2.1\Aula25_Operadores_Comparativos.pdb
+C:\Users\sousa\source\repos\Aula25_Operadores_Comparativos\Aula25_Operadores_Comparativos\obj\Debug\netcoreapp2.1\Aula25_Operadores_Comparativos.csprojAssemblyReference.cache
+C:\Users\sousa\source\repos\Aula25_Operadores_Comparativos\Aula25_Operadores_Comparativos\obj\Debug\netcoreapp2.1\Aula25_Operadores_Comparativos.csproj.CoreCompileInputs.cache
+C:\Users\sousa\source\repos\Aula25_Operadores_Comparativos\Aula25_Operadores_Comparativos\obj\Debug\netcoreapp2.1\Aula25_Operadores_Comparativos.AssemblyInfoInputs.cache
+C:\Users\sousa\source\repos\Aula25_Operadores_Comparativos\Aula25_Operadores_Comparativos\obj\Debug\netcoreapp2.1\Aula25_Operadores_Comparativos.AssemblyInfo.cs
+C:\Users\sousa\source\repos\Aula25_Operadores_Comparativos\Aula25_Operadores_Comparativos\obj\Debug\netcoreapp2.1\Aula25_Operadores_Comparativos.dll
+C:\Users\sousa\source\repos\Aula25_Operadores_Comparativos\Aula25_Operadores_Comparativos\obj\Debug\netcoreapp2.1\Aula25_Operadores_Comparativos.pdb

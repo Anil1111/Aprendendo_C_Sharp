@@ -1,0 +1,10 @@
+C:\Users\sousa\source\repos\Exercicio_Aula23\Exercicio_Aula23\bin\Debug\netcoreapp2.1\Exercicio_Aula23.deps.json
+C:\Users\sousa\source\repos\Exercicio_Aula23\Exercicio_Aula23\bin\Debug\netcoreapp2.1\Exercicio_Aula23.runtimeconfig.json
+C:\Users\sousa\source\repos\Exercicio_Aula23\Exercicio_Aula23\bin\Debug\netcoreapp2.1\Exercicio_Aula23.runtimeconfig.dev.json
+C:\Users\sousa\source\repos\Exercicio_Aula23\Exercicio_Aula23\bin\Debug\netcoreapp2.1\Exercicio_Aula23.dll
+C:\Users\sousa\source\repos\Exercicio_Aula23\Exercicio_Aula23\bin\Debug\netcoreapp2.1\Exercicio_Aula23.pdb
+C:\Users\sousa\source\repos\Exercicio_Aula23\Exercicio_Aula23\obj\Debug\netcoreapp2.1\Exercicio_Aula23.csproj.CoreCompileInputs.cache
+C:\Users\sousa\source\repos\Exercicio_Aula23\Exercicio_Aula23\obj\Debug\netcoreapp2.1\Exercicio_Aula23.AssemblyInfoInputs.cache
+C:\Users\sousa\source\repos\Exercicio_Aula23\Exercicio_Aula23\obj\Debug\netcoreapp2.1\Exercicio_Aula23.AssemblyInfo.cs
+C:\Users\sousa\source\repos\Exercicio_Aula23\Exercicio_Aula23\obj\Debug\netcoreapp2.1\Exercicio_Aula23.dll
+C:\Users\sousa\source\repos\Exercicio_Aula23\Exercicio_Aula23\obj\Debug\netcoreapp2.1\Exercicio_Aula23.pdb

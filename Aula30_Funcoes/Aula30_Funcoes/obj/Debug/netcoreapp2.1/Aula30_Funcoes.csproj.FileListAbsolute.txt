@@ -1,0 +1,11 @@
+C:\Users\sousa\source\repos\Aula30_Funcoes\Aula30_Funcoes\bin\Debug\netcoreapp2.1\Aula30_Funcoes.deps.json
+C:\Users\sousa\source\repos\Aula30_Funcoes\Aula30_Funcoes\bin\Debug\netcoreapp2.1\Aula30_Funcoes.runtimeconfig.json
+C:\Users\sousa\source\repos\Aula30_Funcoes\Aula30_Funcoes\bin\Debug\netcoreapp2.1\Aula30_Funcoes.runtimeconfig.dev.json
+C:\Users\sousa\source\repos\Aula30_Funcoes\Aula30_Funcoes\bin\Debug\netcoreapp2.1\Aula30_Funcoes.dll
+C:\Users\sousa\source\repos\Aula30_Funcoes\Aula30_Funcoes\bin\Debug\netcoreapp2.1\Aula30_Funcoes.pdb
+C:\Users\sousa\source\repos\Aula30_Funcoes\Aula30_Funcoes\obj\Debug\netcoreapp2.1\Aula30_Funcoes.csprojAssemblyReference.cache
+C:\Users\sousa\source\repos\Aula30_Funcoes\Aula30_Funcoes\obj\Debug\netcoreapp2.1\Aula30_Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\sousa\source\repos\Aula30_Funcoes\Aula30_Funcoes\obj\Debug\netcoreapp2.1\Aula30_Funcoes.AssemblyInfoInputs.cache
+C:\Users\sousa\source\repos\Aula30_Funcoes\Aula30_Funcoes\obj\Debug\netcoreapp2.1\Aula30_Funcoes.AssemblyInfo.cs
+C:\Users\sousa\source\repos\Aula30_Funcoes\Aula30_Funcoes\obj\Debug\netcoreapp2.1\Aula30_Funcoes.dll
+C:\Users\sousa\source\repos\Aula30_Funcoes\Aula30_Funcoes\obj\Debug\netcoreapp2.1\Aula30_Funcoes.pdb

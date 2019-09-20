@@ -1,0 +1,10 @@
+C:\Users\sousa\source\repos\Exercicio04\Exercicio04\bin\Debug\netcoreapp2.1\Exercicio04.deps.json
+C:\Users\sousa\source\repos\Exercicio04\Exercicio04\bin\Debug\netcoreapp2.1\Exercicio04.runtimeconfig.json
+C:\Users\sousa\source\repos\Exercicio04\Exercicio04\bin\Debug\netcoreapp2.1\Exercicio04.runtimeconfig.dev.json
+C:\Users\sousa\source\repos\Exercicio04\Exercicio04\bin\Debug\netcoreapp2.1\Exercicio04.dll
+C:\Users\sousa\source\repos\Exercicio04\Exercicio04\bin\Debug\netcoreapp2.1\Exercicio04.pdb
+C:\Users\sousa\source\repos\Exercicio04\Exercicio04\obj\Debug\netcoreapp2.1\Exercicio04.csproj.CoreCompileInputs.cache
+C:\Users\sousa\source\repos\Exercicio04\Exercicio04\obj\Debug\netcoreapp2.1\Exercicio04.AssemblyInfoInputs.cache
+C:\Users\sousa\source\repos\Exercicio04\Exercicio04\obj\Debug\netcoreapp2.1\Exercicio04.AssemblyInfo.cs
+C:\Users\sousa\source\repos\Exercicio04\Exercicio04\obj\Debug\netcoreapp2.1\Exercicio04.dll
+C:\Users\sousa\source\repos\Exercicio04\Exercicio04\obj\Debug\netcoreapp2.1\Exercicio04.pdb

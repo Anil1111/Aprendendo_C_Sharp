@@ -1,0 +1,10 @@
+C:\Users\sousa\source\repos\Exercio_Aula18\Exercio_Aula18\bin\Debug\netcoreapp2.1\Exercio_Aula18.deps.json
+C:\Users\sousa\source\repos\Exercio_Aula18\Exercio_Aula18\bin\Debug\netcoreapp2.1\Exercio_Aula18.runtimeconfig.json
+C:\Users\sousa\source\repos\Exercio_Aula18\Exercio_Aula18\bin\Debug\netcoreapp2.1\Exercio_Aula18.runtimeconfig.dev.json
+C:\Users\sousa\source\repos\Exercio_Aula18\Exercio_Aula18\bin\Debug\netcoreapp2.1\Exercio_Aula18.dll
+C:\Users\sousa\source\repos\Exercio_Aula18\Exercio_Aula18\bin\Debug\netcoreapp2.1\Exercio_Aula18.pdb
+C:\Users\sousa\source\repos\Exercio_Aula18\Exercio_Aula18\obj\Debug\netcoreapp2.1\Exercio_Aula18.csproj.CoreCompileInputs.cache
+C:\Users\sousa\source\repos\Exercio_Aula18\Exercio_Aula18\obj\Debug\netcoreapp2.1\Exercio_Aula18.AssemblyInfoInputs.cache
+C:\Users\sousa\source\repos\Exercio_Aula18\Exercio_Aula18\obj\Debug\netcoreapp2.1\Exercio_Aula18.AssemblyInfo.cs
+C:\Users\sousa\source\repos\Exercio_Aula18\Exercio_Aula18\obj\Debug\netcoreapp2.1\Exercio_Aula18.dll
+C:\Users\sousa\source\repos\Exercio_Aula18\Exercio_Aula18\obj\Debug\netcoreapp2.1\Exercio_Aula18.pdb

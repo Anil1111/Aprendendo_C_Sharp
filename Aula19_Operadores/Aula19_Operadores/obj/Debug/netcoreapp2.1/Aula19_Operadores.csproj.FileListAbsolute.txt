@@ -1,0 +1,11 @@
+C:\Users\sousa\source\repos\Aula19_Operadores\Aula19_Operadores\bin\Debug\netcoreapp2.1\Aula19_Operadores.deps.json
+C:\Users\sousa\source\repos\Aula19_Operadores\Aula19_Operadores\bin\Debug\netcoreapp2.1\Aula19_Operadores.runtimeconfig.json
+C:\Users\sousa\source\repos\Aula19_Operadores\Aula19_Operadores\bin\Debug\netcoreapp2.1\Aula19_Operadores.runtimeconfig.dev.json
+C:\Users\sousa\source\repos\Aula19_Operadores\Aula19_Operadores\bin\Debug\netcoreapp2.1\Aula19_Operadores.dll
+C:\Users\sousa\source\repos\Aula19_Operadores\Aula19_Operadores\bin\Debug\netcoreapp2.1\Aula19_Operadores.pdb
+C:\Users\sousa\source\repos\Aula19_Operadores\Aula19_Operadores\obj\Debug\netcoreapp2.1\Aula19_Operadores.csprojAssemblyReference.cache
+C:\Users\sousa\source\repos\Aula19_Operadores\Aula19_Operadores\obj\Debug\netcoreapp2.1\Aula19_Operadores.csproj.CoreCompileInputs.cache
+C:\Users\sousa\source\repos\Aula19_Operadores\Aula19_Operadores\obj\Debug\netcoreapp2.1\Aula19_Operadores.AssemblyInfoInputs.cache
+C:\Users\sousa\source\repos\Aula19_Operadores\Aula19_Operadores\obj\Debug\netcoreapp2.1\Aula19_Operadores.AssemblyInfo.cs
+C:\Users\sousa\source\repos\Aula19_Operadores\Aula19_Operadores\obj\Debug\netcoreapp2.1\Aula19_Operadores.dll
+C:\Users\sousa\source\repos\Aula19_Operadores\Aula19_Operadores\obj\Debug\netcoreapp2.1\Aula19_Operadores.pdb

@@ -1,0 +1,11 @@
+C:\Users\sousa\source\repos\Aula22_EntradaDeDados\Aula22_EntradaDeDados\bin\Debug\netcoreapp2.1\Aula22_EntradaDeDados.deps.json
+C:\Users\sousa\source\repos\Aula22_EntradaDeDados\Aula22_EntradaDeDados\bin\Debug\netcoreapp2.1\Aula22_EntradaDeDados.runtimeconfig.json
+C:\Users\sousa\source\repos\Aula22_EntradaDeDados\Aula22_EntradaDeDados\bin\Debug\netcoreapp2.1\Aula22_EntradaDeDados.runtimeconfig.dev.json
+C:\Users\sousa\source\repos\Aula22_EntradaDeDados\Aula22_EntradaDeDados\bin\Debug\netcoreapp2.1\Aula22_EntradaDeDados.dll
+C:\Users\sousa\source\repos\Aula22_EntradaDeDados\Aula22_EntradaDeDados\bin\Debug\netcoreapp2.1\Aula22_EntradaDeDados.pdb
+C:\Users\sousa\source\repos\Aula22_EntradaDeDados\Aula22_EntradaDeDados\obj\Debug\netcoreapp2.1\Aula22_EntradaDeDados.csprojAssemblyReference.cache
+C:\Users\sousa\source\repos\Aula22_EntradaDeDados\Aula22_EntradaDeDados\obj\Debug\netcoreapp2.1\Aula22_EntradaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\sousa\source\repos\Aula22_EntradaDeDados\Aula22_EntradaDeDados\obj\Debug\netcoreapp2.1\Aula22_EntradaDeDados.AssemblyInfoInputs.cache
+C:\Users\sousa\source\repos\Aula22_EntradaDeDados\Aula22_EntradaDeDados\obj\Debug\netcoreapp2.1\Aula22_EntradaDeDados.AssemblyInfo.cs
+C:\Users\sousa\source\repos\Aula22_EntradaDeDados\Aula22_EntradaDeDados\obj\Debug\netcoreapp2.1\Aula22_EntradaDeDados.dll
+C:\Users\sousa\source\repos\Aula22_EntradaDeDados\Aula22_EntradaDeDados\obj\Debug\netcoreapp2.1\Aula22_EntradaDeDados.pdb

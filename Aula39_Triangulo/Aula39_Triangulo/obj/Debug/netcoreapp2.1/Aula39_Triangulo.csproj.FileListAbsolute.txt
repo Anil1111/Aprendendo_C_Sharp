@@ -1,0 +1,11 @@
+C:\Users\sousa\source\repos\Aula39_Triangulo\Aula39_Triangulo\bin\Debug\netcoreapp2.1\Aula39_Triangulo.deps.json
+C:\Users\sousa\source\repos\Aula39_Triangulo\Aula39_Triangulo\bin\Debug\netcoreapp2.1\Aula39_Triangulo.runtimeconfig.json
+C:\Users\sousa\source\repos\Aula39_Triangulo\Aula39_Triangulo\bin\Debug\netcoreapp2.1\Aula39_Triangulo.runtimeconfig.dev.json
+C:\Users\sousa\source\repos\Aula39_Triangulo\Aula39_Triangulo\bin\Debug\netcoreapp2.1\Aula39_Triangulo.dll
+C:\Users\sousa\source\repos\Aula39_Triangulo\Aula39_Triangulo\bin\Debug\netcoreapp2.1\Aula39_Triangulo.pdb
+C:\Users\sousa\source\repos\Aula39_Triangulo\Aula39_Triangulo\obj\Debug\netcoreapp2.1\Aula39_Triangulo.csprojAssemblyReference.cache
+C:\Users\sousa\source\repos\Aula39_Triangulo\Aula39_Triangulo\obj\Debug\netcoreapp2.1\Aula39_Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\sousa\source\repos\Aula39_Triangulo\Aula39_Triangulo\obj\Debug\netcoreapp2.1\Aula39_Triangulo.AssemblyInfoInputs.cache
+C:\Users\sousa\source\repos\Aula39_Triangulo\Aula39_Triangulo\obj\Debug\netcoreapp2.1\Aula39_Triangulo.AssemblyInfo.cs
+C:\Users\sousa\source\repos\Aula39_Triangulo\Aula39_Triangulo\obj\Debug\netcoreapp2.1\Aula39_Triangulo.dll
+C:\Users\sousa\source\repos\Aula39_Triangulo\Aula39_Triangulo\obj\Debug\netcoreapp2.1\Aula39_Triangulo.pdb

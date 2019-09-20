@@ -1,0 +1,11 @@
+C:\Users\sousa\source\repos\Exercicios02\Exercicios02\bin\Debug\netcoreapp2.1\Exercicios02.deps.json
+C:\Users\sousa\source\repos\Exercicios02\Exercicios02\bin\Debug\netcoreapp2.1\Exercicios02.runtimeconfig.json
+C:\Users\sousa\source\repos\Exercicios02\Exercicios02\bin\Debug\netcoreapp2.1\Exercicios02.runtimeconfig.dev.json
+C:\Users\sousa\source\repos\Exercicios02\Exercicios02\bin\Debug\netcoreapp2.1\Exercicios02.dll
+C:\Users\sousa\source\repos\Exercicios02\Exercicios02\bin\Debug\netcoreapp2.1\Exercicios02.pdb
+C:\Users\sousa\source\repos\Exercicios02\Exercicios02\obj\Debug\netcoreapp2.1\Exercicios02.csproj.CoreCompileInputs.cache
+C:\Users\sousa\source\repos\Exercicios02\Exercicios02\obj\Debug\netcoreapp2.1\Exercicios02.AssemblyInfoInputs.cache
+C:\Users\sousa\source\repos\Exercicios02\Exercicios02\obj\Debug\netcoreapp2.1\Exercicios02.AssemblyInfo.cs
+C:\Users\sousa\source\repos\Exercicios02\Exercicios02\obj\Debug\netcoreapp2.1\Exercicios02.dll
+C:\Users\sousa\source\repos\Exercicios02\Exercicios02\obj\Debug\netcoreapp2.1\Exercicios02.pdb
+C:\Users\sousa\source\repos\Exercicios02\Exercicios02\obj\Debug\netcoreapp2.1\Exercicios02.csprojAssemblyReference.cache

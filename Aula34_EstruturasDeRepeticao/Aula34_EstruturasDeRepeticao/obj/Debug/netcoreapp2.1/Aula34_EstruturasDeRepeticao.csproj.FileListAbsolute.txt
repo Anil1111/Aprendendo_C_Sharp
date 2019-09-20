@@ -1,0 +1,11 @@
+C:\Users\sousa\source\repos\Aula34_EstruturasDeRepeticao\Aula34_EstruturasDeRepeticao\bin\Debug\netcoreapp2.1\Aula34_EstruturasDeRepeticao.deps.json
+C:\Users\sousa\source\repos\Aula34_EstruturasDeRepeticao\Aula34_EstruturasDeRepeticao\bin\Debug\netcoreapp2.1\Aula34_EstruturasDeRepeticao.runtimeconfig.json
+C:\Users\sousa\source\repos\Aula34_EstruturasDeRepeticao\Aula34_EstruturasDeRepeticao\bin\Debug\netcoreapp2.1\Aula34_EstruturasDeRepeticao.runtimeconfig.dev.json
+C:\Users\sousa\source\repos\Aula34_EstruturasDeRepeticao\Aula34_EstruturasDeRepeticao\bin\Debug\netcoreapp2.1\Aula34_EstruturasDeRepeticao.dll
+C:\Users\sousa\source\repos\Aula34_EstruturasDeRepeticao\Aula34_EstruturasDeRepeticao\bin\Debug\netcoreapp2.1\Aula34_EstruturasDeRepeticao.pdb
+C:\Users\sousa\source\repos\Aula34_EstruturasDeRepeticao\Aula34_EstruturasDeRepeticao\obj\Debug\netcoreapp2.1\Aula34_EstruturasDeRepeticao.csprojAssemblyReference.cache
+C:\Users\sousa\source\repos\Aula34_EstruturasDeRepeticao\Aula34_EstruturasDeRepeticao\obj\Debug\netcoreapp2.1\Aula34_EstruturasDeRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\sousa\source\repos\Aula34_EstruturasDeRepeticao\Aula34_EstruturasDeRepeticao\obj\Debug\netcoreapp2.1\Aula34_EstruturasDeRepeticao.AssemblyInfoInputs.cache
+C:\Users\sousa\source\repos\Aula34_EstruturasDeRepeticao\Aula34_EstruturasDeRepeticao\obj\Debug\netcoreapp2.1\Aula34_EstruturasDeRepeticao.AssemblyInfo.cs
+C:\Users\sousa\source\repos\Aula34_EstruturasDeRepeticao\Aula34_EstruturasDeRepeticao\obj\Debug\netcoreapp2.1\Aula34_EstruturasDeRepeticao.dll
+C:\Users\sousa\source\repos\Aula34_EstruturasDeRepeticao\Aula34_EstruturasDeRepeticao\obj\Debug\netcoreapp2.1\Aula34_EstruturasDeRepeticao.pdb
